@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="122.49006"
-     inkscape:cy="157.92883"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="497.65685"
+     inkscape:cy="492.43952"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +56,8 @@
      id="layer4"
      inkscape:label="fundo"
      transform="translate(0,-3.6171875e-6)"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        id="rect3063"
@@ -516,7 +517,7 @@
          sodipodi:role="line"
          x="30.767944"
          y="998.5957"
-         id="tspan4418">+ info wm darc.pt/workshopcp</tspan></text>
+         id="tspan4418">+ info em darc.pt/workshopcp</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
